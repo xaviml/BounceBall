@@ -6,29 +6,60 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     977 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
 <RI> Input initialized.
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
-Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Boo.Lang.dll (this message is harmless)
-UnloadTime: 1.812886 ms
+Platform assembly: C:\Users\Zenbook\Documents\GitHub\BounceBall\BounceBall_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.808078 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 267.
-Total: 3.404218 ms (FindLiveObjects: 0.040447 ms CreateObjectMapping: 0.027166 ms MarkObjects: 0.181107 ms  DeleteObjects: 0.710545 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 268.
+Total: 2.612204 ms (FindLiveObjects: 0.042862 ms CreateObjectMapping: 0.026562 ms MarkObjects: 0.209483 ms  DeleteObjects: 0.744360 ms)
 
 We do not have a target for the camera.
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Button 1 Activated - OK!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Button 2 Activated - OK!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Button 3 Activated - OK!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Button 4 Activated - OK!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Middle wall cleared! You can go ahead!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+5
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 2.622467 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 139.
+Total: 2.324240 ms (FindLiveObjects: 0.025959 ms CreateObjectMapping: 0.031996 ms MarkObjects: 0.377311 ms  DeleteObjects: 0.636902 ms)
 
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported

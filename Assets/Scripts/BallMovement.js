@@ -1,6 +1,6 @@
 // speed of the ball
 
-var speed = 5.0;
+var speed = 18.0;
 
 var radius = 5.0;
 
@@ -38,6 +38,7 @@ function Start(){
     // set the mass according to the radius.
 
     rigidbody.mass = 100 * radius;
+    rigidbody.drag = 1;
     cooldown = 1;
     localScaleY = transform.localScale.y;
     jumpBool = false;
