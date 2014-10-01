@@ -1,6 +1,6 @@
 // speed of the ball
 
-var speed = 18.0;
+var speed = 25.0;
 
 var radius = 5.0;
 
