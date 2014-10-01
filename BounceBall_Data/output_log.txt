@@ -1,0 +1,34 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 620M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     977 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: C:\Users\Zenbook\Documents\BounceBall\BounceBall_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 1.812886 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 267.
+Total: 3.404218 ms (FindLiveObjects: 0.040447 ms CreateObjectMapping: 0.027166 ms MarkObjects: 0.181107 ms  DeleteObjects: 0.710545 ms)
+
+We do not have a target for the camera.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
